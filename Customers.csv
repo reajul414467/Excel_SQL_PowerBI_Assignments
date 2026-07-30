@@ -1,0 +1,12 @@
+CustomerID,CustomerName,City,Membership
+C001,Alice,Dhaka,Gold
+C002,Bob,Chittagong,Silver
+C003,Charlie,Sylhet,Gold
+C004,David,,Silver
+C005,Eva,Dhaka,Gold
+C006,Frank,Khulna,Bronze
+C007,Grace,Rajshahi,Silver
+C008,Helen,,
+C009,Ian,Dhaka,Gold
+C010,John,Sylhet,Bronze
+C011,Kevin,Comilla,Silver
